@@ -39,4 +39,4 @@ bagian E.
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+AI 0, tidak memakai AI

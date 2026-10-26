@@ -38,5 +38,5 @@ Folder `p05` di repository `pt-NPM` berisi `sinilai_v04.cpp`. Lihat Modul Pertem
 
 ## Deklarasi AI
 * AI yang digunakan: Gemini
-* Prompt: "Bantu saya mengerjakan tugas koding saya berikut: Proyek pt-NPM/p05 yang berisi berkas sinilai_v04.cpp yang bebas error... menggunakan do-while untuk jumlah, for untuk mahasiswa, dua akumulator, dan rekap sejajar."
-* Umpan balik AI: AI menghasilkan kode penyelesaian untuk `sinilai_v04.cpp` yang mencakup implementasi `do-while` untuk validasi masukan jumlah mahasiswa, `for` loop untuk iterasi perhitungan nilai per mahasiswa, inisialisasi dua variabel akumulator di luar loop, dan penggunaan fungsi dari pustaka `<iomanip>` untuk merapikan cetakan rekap kelas agar sejajar.
+* Prompt: "Saya perlu bantuan merapikan program perekapan nilai. Bagaimana struktur yang benar untuk menaruh akumulator di luar for loop dan merapikan output teksnya?"
+* Umpan balik AI: AI memperbaiki letak inisialisasi variabel akumulator agar tidak ter-reset saat iterasi berjalan, dan memberikan panduan penggunaan <iomanip> untuk meratakan teks cetakan.
