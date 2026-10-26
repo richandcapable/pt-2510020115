@@ -15,6 +15,7 @@ int main() {
     cout << "Jumlah mahasiswa : " << jumlah_mahasiswa << "\n";
     cout << "Nilai UTS        : " << nilai_uts << "\n";
     cout << "Huruf mutu       : " << huruf_mutu << "\n";
+    cout <<boolalpha;
     cout << "Lulus            : " << lulus << "\n";
     cout << "Nama             : " << nama << "\n";
 

@@ -11,7 +11,7 @@ int main() {
     double nilai = 0;
 
     cout << "Nama     : Siti Aminah";
-    getline(cin, nama);
+    cin >> nama;
     cout << "Angkatan : 2024";
     cin >> angkatan;
     cout << "Nilai    : 88.5";
