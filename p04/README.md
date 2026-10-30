@@ -32,6 +32,7 @@ di modul (Gambar 2 sampai 7); baca gambarnya dulu, baru kodenya.
 Folder `p04` di repository `pt-NPM` berisi `sinilai_v03.cpp` dan  `README.md`. Lihat Modul Pertemuan 4 bagian E.
 
 ## Deklarasi AI
+AI 1
 AI: gemini
 Prompt: bantu saya cara run c++ dengan file contoh_masukan.txt dengan nama file sinilai_v03.cpp
 Umpan balik: 1. Kompilasi Kode
