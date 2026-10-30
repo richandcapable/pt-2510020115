@@ -34,4 +34,4 @@ Folder `p03` di repository `pt-NPM` berisi `sinilai_v02.cpp` dan  `README.md`. L
 ## Deklarasi AI
 Alat: Chatgpt
 Untuk: membantu error saat run contoh text
-Umpan Balik: Kesalahan lokasi folder di terminal
+Umpan Balik: Kesalahan lokasi folder di terminal.
