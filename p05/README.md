@@ -37,6 +37,7 @@ menjadi 0; obatnya dibahas di Pertemuan 7).
 Folder `p05` di repository `pt-NPM` berisi `sinilai_v04.cpp`. Lihat Modul Pertemuan 5 bagian E.
 
 ## Deklarasi AI
+AI 1
 * AI yang digunakan: Gemini
 * Prompt: "Saya perlu bantuan merapikan program perekapan nilai. Bagaimana struktur yang benar untuk menaruh akumulator di luar for loop dan merapikan output teksnya?".
 * Umpan balik AI: AI memperbaiki letak inisialisasi variabel akumulator agar tidak ter-reset saat iterasi berjalan, dan memberikan panduan penggunaan <iomanip> untuk meratakan teks cetakan.
