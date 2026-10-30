@@ -32,5 +32,6 @@ Nilai akhir = 100 x 0,10 + 85,5 x 0,45 + 78 x 0,25 + 80 x 0,20 = 10 + 38,475 + 1
 Folder `p03` di repository `pt-NPM` berisi `sinilai_v02.cpp` dan  `README.md`. Lihat Modul Pertemuan 3 bagian E.
 
 ## Deklarasi AI
-
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+Alat: Chatgpt
+Untuk: membantu error saat run contoh text
+Umpan Balik: Kesalahan lokasi folder di terminal
