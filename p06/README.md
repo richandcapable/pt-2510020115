@@ -47,5 +47,10 @@ Di Linux hapus akhiran `.exe` dan ganti `miDebuggerPath` menjadi `/usr/bin/gdb`;
 Folder `p06` di repository `pt-NPM` berisi `sinilai_v05.cpp`. Lihat Modul Pertemuan 6 bagian E.
 
 ## Deklarasi AI
-
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+AI1
+AI: Gemini
+Prompt: apa arti pesan error berikut?    'std::basic_ostream<char>' is not derived from 'std::_Put_time<_CharT>'
+          sinilai_v05.cpp:131:5:
+            131 |     cout << "\nSebaran huruf mutu:\n";
+                |     ^~~~
+Umpan Balik: Pesan error C++ ini sering kali adalah "error tipuan". Meskipun panah error menunjuk ke perintah cout di baris 131, penyebab aslinya hampir selalu merupakan kesalahan penulisan di baris tepat di atasnya (baris 130 atau sebelumnya).
